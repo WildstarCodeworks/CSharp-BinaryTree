@@ -65,6 +65,7 @@ namespace BinaryTree
             displayString += "Values read from left-most node to the right-most node\n";
             displayString += string.Format("Tree Size = {0}, Tree Unique Size = {1}\n", size, uniqueSize);
             displayString += DisplayTree_MakeStringRecursive(root);
+            displayString += "=============================\n";
             return displayString;
         }
 
