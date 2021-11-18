@@ -7,7 +7,7 @@ Last Modified: 11/17/2021
 
 
 Created as both a self-educational project and a structure I needed, this binary tree
-is designed to organize your data in a the expected way, but also carries along a payload of other
+is designed to organize your data in the expected way, but also carries along a payload of other
 information that the user determines on initialization. In this way a binary tree can also return
 indices, strings, custom objects, or whatever the author decides.
 
