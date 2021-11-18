@@ -19,7 +19,7 @@ The two rules it offers are:
 Predecessor: It will replace the deleted node with the largest node found by searching its left child.
 
 Successor: It will replace the deleted node with the smallest node found by searching its right child.
-This can be switched at any time with "SwitchNodes()" and is, by default, "predecessor".
+This can be switched at any time with "SwitchModes()" and is, by default, "predecessor".
  
 The code also keeps track of the parent of the node allowing users the option to trace up with ease.
  
