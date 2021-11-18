@@ -12,7 +12,6 @@ namespace BinaryTree
         public int key;
         public List<TPayload> payload;
         public int count;
-        public int childCount;
         public Node<TPayload> parent;
         public Node<TPayload> leftChild;
         public Node<TPayload> rightChild;
