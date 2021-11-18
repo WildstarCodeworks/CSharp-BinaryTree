@@ -1,5 +1,6 @@
 # CSharp-BinaryTree
 Author: WildstarCodeworks
+
 Created: 11/15/2021
 
 Created as both an self-educational project and a structure I needed, this binary tree
