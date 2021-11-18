@@ -3,7 +3,8 @@ Author: WildstarCodeworks
 
 Created: 11/15/2021
 
-Updated: 11/17/2021
+Last Modified: 11/17/2021
+
 
 Created as both an self-educational project and a structure I needed, this binary tree
 is designed to organize your data in a the expected way, but also carries along a payload of other
