@@ -15,7 +15,7 @@ The code uses the Last-In-First-Out rule for deleting entries from a payload and
 its size and unique nodes when a users adds or removes a node. It is not recommended that users
 use or modify the code to be First-In-First-Out as the runtime is abyssmal.
 
-The code alsoa allows the user to decide how they would like nodes with 2 children to be replaced.
+The code also allows the user to decide how they would like nodes with 2 children to be replaced.
 The two rules it offers are:
 
 Predecessor: It will replace the deleted node with the largest node found by searching its left child.
